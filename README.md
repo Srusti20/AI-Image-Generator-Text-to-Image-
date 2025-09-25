@@ -48,6 +48,7 @@ This section allows the user to choose from different artistic styles such as 3D
 
 <img width="1379" height="673" alt="Screenshot 2025-09-25 180007" src="https://github.com/user-attachments/assets/6f8f1394-3f90-4a8f-8acc-ebac38d0f76d" />
 
+---
 
 Image Generation Panel
 Once the user selects a style and enters a prompt, the generated image is displayed along with regenerate and download buttons.
@@ -59,10 +60,12 @@ Once the user selects a style and enters a prompt, the generated image is displa
 ## How to Run the Project
 
 **1. Clone the repository:**
-     git clone https://github.com/your-repo/ai-image-generator.git
+     git clone https://github.com/Srusti20/AI-Image-Generator-Text-to-Image-/blob/main/AI%20Image%20Generator(text%20to%20Image).zip.git
      cd ai-image-generator
+     
 **2. Install dependencies:**
      npm install
+     
 **3.  Run in development mode:**
      npm run dev
      
