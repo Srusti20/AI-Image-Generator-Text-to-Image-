@@ -60,7 +60,7 @@ Once the user selects a style and enters a prompt, the generated image is displa
 ## How to Run the Project
 
 **1. Clone the repository:**
-     git clone https://github.com/Srusti20/AI-Image-Generator-Text-to-Image-/blob/main/AI%20Image%20Generator(text%20to%20Image).zip.git
+     git clone https://github.com/Srusti20/AI-Image-Generator-Text-to-Image-/tree/main
      cd ai-image-generator
      
 **2. Install dependencies:**
